@@ -23,7 +23,12 @@
             </div>
 
             <div class="navbar-collapse collapse" style="text-align:right">
-                <a href="#" id="Nickname" name="Nickname" data-type="text" data-send="always" class="editable editable-click editable-open" data-url="Home/ChangeNickname" title="" style="display:inline-block; vertical-align:middle">@Request.Cookies["Nickname"].Value</a>
+                <a href="#" id="Nickname" name="Nickname" data-type="text" data-send="always" class="editable editable-click editable-open" data-url="Home/ChangeNickname" title="" style="display:inline-block; vertical-align:middle">
+                    @if (Request.Cookies["Nickname"] != null)
+                    { 
+                        @Request.Cookies["Nickname"].Value
+                    }
+                </a>
                 @Html.Partial("_LoginPartial")
             </div>
         </div>
