@@ -351,7 +351,6 @@ namespace CourseProject.Controllers
                             DB.Entry(NewAnswer).State = System.Data.Entity.EntityState.Added;
 
                         }
-                       
 
                     }
                     else
@@ -385,10 +384,10 @@ namespace CourseProject.Controllers
                         DB.Tasks.First(c => c.UserTaskID == id).TaskText = HTML;                        
                     }
                     DB.SaveChanges();
-                    return RedirectToAction("Index", "Home");
                 }
             }
-            return View();
+
+            return RedirectToAction("Index", "Home");
         }
 
 

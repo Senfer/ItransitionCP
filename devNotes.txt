@@ -1,0 +1,8 @@
+уютный чатик
+
+ @Html.ActionLink( "UNBAN", "Ban", "Manage", new { id = i.Id }
+
+
+public async Task<ActionResult> Delete( string id )
+
+

@@ -9,7 +9,6 @@ namespace CourseProject.Models
     // Чтобы добавить данные профиля для пользователя, можно добавить дополнительные свойства в класс ApplicationUser. Дополнительные сведения см. по адресу: http://go.microsoft.com/fwlink/?LinkID=317594.
     public class ApplicationUser : IdentityUser
     {
-        public bool ConfirmedEmail { get; set; }
         public async Task<ClaimsIdentity> GenerateUserIdentityAsync(UserManager<ApplicationUser> manager)
         {
             // Обратите внимание, что authenticationType должен совпадать с типом, определенным в CookieAuthenticationOptions.AuthenticationType
@@ -19,11 +18,24 @@ namespace CourseProject.Models
         }
         public float Rating { get; set; }
         public string NickName { get; set; }
+        public int CountOfTasks { get; set; }
+        public double CountOfSuccessfulAnswers { get; set; }
+        public int CountOfComments { get; set; }
+        public string AhcivementMask { get; set; }
     }
 
+    public class Ahcivement
+    {
+        public int AhcivementID { get; set; }
+        public string AhcivementRU { get; set; }
+        public string AhcivementUS { get; set; }
+        public string AhcivementTextRU { get; set; }
+        public string AhcivementTextUS { get; set; }
+        
+    }
     public class UserTask
     {
-        public int UserTaskID {get;set;}
+        public int UserTaskID { get;set;}
         public string TaskName { get; set; }
         public string TaskText { get; set; }
         public float TaskRating { get; set; }
@@ -72,6 +84,7 @@ namespace CourseProject.Models
         public int RatingValue { get; set; }
     }
 
+
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
@@ -89,6 +102,7 @@ namespace CourseProject.Models
         public System.Data.Entity.DbSet<Solves> Solves { get; set; }
         public System.Data.Entity.DbSet<Comments> Comments { get; set; }
         public System.Data.Entity.DbSet<Ratings> Ratings { get; set; }
+        public System.Data.Entity.DbSet<Ahcivement> Ahcivement { get; set; }
     }
 
 

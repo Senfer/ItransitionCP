@@ -19,8 +19,17 @@ namespace CourseProject.Controllers
 
         public AccountController()
         {
+
+
+            var Model = new CabinetViewModel
+            {
+                AhcivementModel = new AhcivementModel(),
+                CabinetModel = new CabinetModel()
+            };
+            return View(Model);
         }
 
+        
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
         {
             UserManager = userManager;

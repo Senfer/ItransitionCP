@@ -5,6 +5,16 @@ using Microsoft.Owin.Security;
 
 namespace CourseProject.Models
 {
+    public class CabinetModel
+    {
+        public System.Collections.Generic.IEnumerable<ApplicationUser> Users { get; set; }
+        public System.Collections.Generic.IEnumerable<UserTask> Tasks { get; set; }
+    }
+
+    public class AhcivementModel
+    {
+        public System.Collections.Generic.IEnumerable<Ahcivement> Ahcivements { get; set; }
+    }
     public class IndexViewModel
     {
         public bool HasPassword { get; set; }

@@ -47,19 +47,32 @@
       <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="MarkdownSharp">
-      <HintPath>..\packages\Markdown.1.14.3\lib\net45\MarkdownSharp.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.0\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Http, Version=5.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.0\lib\net45\System.Web.Http.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.0\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Web" />
     <Reference Include="System.Web.Extensions" />
@@ -114,9 +127,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>..\packages\Newtonsoft.Json.6.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.AspNet.Identity.Core">
       <HintPath>..\packages\Microsoft.AspNet.Identity.Core.2.1.0\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
     </Reference>
@@ -173,8 +183,61 @@
     <Compile Include="Migrations\201509042332104_InitialCreate.Designer.cs">
       <DependentUpon>201509042332104_InitialCreate.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201509142237124_UserTask.cs" />
+    <Compile Include="Migrations\201509142237124_UserTask.Designer.cs">
+      <DependentUpon>201509142237124_UserTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201509142256501_UserTask2.cs" />
+    <Compile Include="Migrations\201509142256501_UserTask2.Designer.cs">
+      <DependentUpon>201509142256501_UserTask2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201509142314174_Answers.cs" />
+    <Compile Include="Migrations\201509142314174_Answers.Designer.cs">
+      <DependentUpon>201509142314174_Answers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201509142315089_Answers2.cs" />
+    <Compile Include="Migrations\201509142315089_Answers2.Designer.cs">
+      <DependentUpon>201509142315089_Answers2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201509150025150_Answers3.cs" />
+    <Compile Include="Migrations\201509150025150_Answers3.Designer.cs">
+      <DependentUpon>201509150025150_Answers3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201509162339115_Solves.cs" />
+    <Compile Include="Migrations\201509162339115_Solves.Designer.cs">
+      <DependentUpon>201509162339115_Solves.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201509171444245_Comments.cs" />
+    <Compile Include="Migrations\201509171444245_Comments.Designer.cs">
+      <DependentUpon>201509171444245_Comments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201509172340506_Users1.cs" />
+    <Compile Include="Migrations\201509172340506_Users1.Designer.cs">
+      <DependentUpon>201509172340506_Users1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201509180257415_Users11.cs" />
+    <Compile Include="Migrations\201509180257415_Users11.Designer.cs">
+      <DependentUpon>201509180257415_Users11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201509181345296_Float.cs" />
+    <Compile Include="Migrations\201509181345296_Float.Designer.cs">
+      <DependentUpon>201509181345296_Float.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201509181351136_Float2.cs" />
+    <Compile Include="Migrations\201509181351136_Float2.Designer.cs">
+      <DependentUpon>201509181351136_Float2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201509182108282_temp.cs" />
+    <Compile Include="Migrations\201509182108282_temp.Designer.cs">
+      <DependentUpon>201509182108282_temp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201509182218266_Sauce.cs" />
+    <Compile Include="Migrations\201509182218266_Sauce.Designer.cs">
+      <DependentUpon>201509182218266_Sauce.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\CabinetViewModel.cs" />
     <Compile Include="Models\HomeViewModelscs.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
@@ -207,7 +270,9 @@
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\showdown.js" />
     <Content Include="Scripts\_references.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -249,6 +314,7 @@
     <Content Include="Views\Home\FullTable.cshtml" />
     <Content Include="Views\Manage\SolvingTask.cshtml" />
     <Content Include="Views\Manage\Cabinet.cshtml" />
+    <Content Include="Views\Account\Cabinet.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -263,6 +329,45 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201509042332104_InitialCreate.resx">
       <DependentUpon>201509042332104_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201509142237124_UserTask.resx">
+      <DependentUpon>201509142237124_UserTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201509142256501_UserTask2.resx">
+      <DependentUpon>201509142256501_UserTask2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201509142314174_Answers.resx">
+      <DependentUpon>201509142314174_Answers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201509142315089_Answers2.resx">
+      <DependentUpon>201509142315089_Answers2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201509150025150_Answers3.resx">
+      <DependentUpon>201509150025150_Answers3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201509162339115_Solves.resx">
+      <DependentUpon>201509162339115_Solves.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201509171444245_Comments.resx">
+      <DependentUpon>201509171444245_Comments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201509172340506_Users1.resx">
+      <DependentUpon>201509172340506_Users1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201509180257415_Users11.resx">
+      <DependentUpon>201509180257415_Users11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201509181345296_Float.resx">
+      <DependentUpon>201509181345296_Float.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201509181351136_Float2.resx">
+      <DependentUpon>201509181351136_Float2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201509182108282_temp.resx">
+      <DependentUpon>201509182108282_temp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201509182218266_Sauce.resx">
+      <DependentUpon>201509182218266_Sauce.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
@@ -283,11 +388,10 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>2340</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:80/</IISUrl>
+          <IISUrl>http://localhost:8080</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
-          <CustomServerUrl>
-          </CustomServerUrl>
+          <CustomServerUrl>http://192.168.1.3:8080/</CustomServerUrl>
           <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
         </WebProjectProperties>
       </FlavorProperties>
