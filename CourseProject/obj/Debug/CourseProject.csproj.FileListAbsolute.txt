@@ -1,0 +1,220 @@
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\CourseProject.dll.config
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\CourseProject.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\CourseProject.pdb
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Antlr3.Runtime.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\EntityFramework.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\EntityFramework.SqlServer.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.Security.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.Security.Google.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Web.Infrastructure.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Newtonsoft.Json.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Owin.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.Helpers.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.Mvc.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.Optimization.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.Razor.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.WebPages.Deployment.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.WebPages.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.WebPages.Razor.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\WebGrease.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.Helpers.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.Mvc.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.Optimization.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.Razor.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.WebPages.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.WebPages.Deployment.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.WebPages.Razor.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Antlr3.Runtime.pdb
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Newtonsoft.Json.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\EntityFramework.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\EntityFramework.SqlServer.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.Security.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.Security.Google.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\System.Web.Helpers.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\System.Web.Mvc.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\System.Web.Optimization.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\System.Web.Razor.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\System.Web.WebPages.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\EntityFramework.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\Microsoft.Owin.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.pdb
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.InitialCreate.resources
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.Cache
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.UserTask.resources
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.UserTask2.resources
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Answers.resources
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Answers2.resources
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Answers3.resources
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.csprojResolveAssemblyReference.cache
+D:\project\ItrCP\CourseProject\bin\CourseProject.dll.config
+D:\project\ItrCP\CourseProject\bin\CourseProject.dll
+D:\project\ItrCP\CourseProject\bin\CourseProject.pdb
+D:\project\ItrCP\CourseProject\bin\Antlr3.Runtime.dll
+D:\project\ItrCP\CourseProject\bin\EntityFramework.dll
+D:\project\ItrCP\CourseProject\bin\EntityFramework.SqlServer.dll
+D:\project\ItrCP\CourseProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\project\ItrCP\CourseProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\project\ItrCP\CourseProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.dll
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.Security.dll
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.Security.Google.dll
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\project\ItrCP\CourseProject\bin\Microsoft.Web.Infrastructure.dll
+D:\project\ItrCP\CourseProject\bin\Newtonsoft.Json.dll
+D:\project\ItrCP\CourseProject\bin\Owin.dll
+D:\project\ItrCP\CourseProject\bin\System.Web.Helpers.dll
+D:\project\ItrCP\CourseProject\bin\System.Web.Mvc.dll
+D:\project\ItrCP\CourseProject\bin\System.Web.Optimization.dll
+D:\project\ItrCP\CourseProject\bin\System.Web.Razor.dll
+D:\project\ItrCP\CourseProject\bin\System.Web.WebPages.Deployment.dll
+D:\project\ItrCP\CourseProject\bin\System.Web.WebPages.dll
+D:\project\ItrCP\CourseProject\bin\System.Web.WebPages.Razor.dll
+D:\project\ItrCP\CourseProject\bin\WebGrease.dll
+D:\project\ItrCP\CourseProject\bin\System.Web.Helpers.xml
+D:\project\ItrCP\CourseProject\bin\System.Web.Mvc.xml
+D:\project\ItrCP\CourseProject\bin\System.Web.Optimization.xml
+D:\project\ItrCP\CourseProject\bin\System.Web.Razor.xml
+D:\project\ItrCP\CourseProject\bin\System.Web.WebPages.xml
+D:\project\ItrCP\CourseProject\bin\System.Web.WebPages.Deployment.xml
+D:\project\ItrCP\CourseProject\bin\System.Web.WebPages.Razor.xml
+D:\project\ItrCP\CourseProject\bin\Antlr3.Runtime.pdb
+D:\project\ItrCP\CourseProject\bin\Newtonsoft.Json.xml
+D:\project\ItrCP\CourseProject\bin\EntityFramework.xml
+D:\project\ItrCP\CourseProject\bin\EntityFramework.SqlServer.xml
+D:\project\ItrCP\CourseProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\project\ItrCP\CourseProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\project\ItrCP\CourseProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.xml
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.Security.xml
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.Security.Google.xml
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\project\ItrCP\CourseProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\project\ItrCP\CourseProject\bin\ru\System.Web.Helpers.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\System.Web.Mvc.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\System.Web.Optimization.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\System.Web.Razor.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\System.Web.WebPages.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\EntityFramework.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\Microsoft.Owin.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\project\ItrCP\CourseProject\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\project\ItrCP\CourseProject\obj\Debug\CourseProject.csprojResolveAssemblyReference.cache
+D:\project\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.InitialCreate.resources
+D:\project\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.UserTask.resources
+D:\project\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.UserTask2.resources
+D:\project\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Answers.resources
+D:\project\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Answers2.resources
+D:\project\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Answers3.resources
+D:\project\ItrCP\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.Cache
+D:\project\ItrCP\CourseProject\obj\Debug\CourseProject.dll
+D:\project\ItrCP\CourseProject\obj\Debug\CourseProject.pdb
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Solves.resources
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Comments.resources
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Users1.resources
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Users11.resources
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Float.resources
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Float2.resources
+D:\project\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Solves.resources
+D:\project\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Comments.resources
+D:\project\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Users1.resources
+D:\project\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Users11.resources
+D:\project\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Float.resources
+D:\project\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.Float2.resources
+D:\project\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.NewRating.resources
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.NewRating.resources
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.LELES.resources
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Net.Http.Formatting.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.Http.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.Http.WebHost.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Net.Http.Formatting.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.Http.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.Http.WebHost.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Data.Edm.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Data.OData.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Spatial.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.Http.OData.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Data.Edm.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\Microsoft.Data.OData.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Spatial.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\System.Web.Http.OData.xml
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\de\Microsoft.Data.Edm.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\es\Microsoft.Data.Edm.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\it\Microsoft.Data.Edm.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\de\Microsoft.Data.OData.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\es\Microsoft.Data.OData.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\fr\Microsoft.Data.OData.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\it\Microsoft.Data.OData.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ja\Microsoft.Data.OData.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ko\Microsoft.Data.OData.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\Microsoft.Data.OData.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\de\System.Spatial.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\es\System.Spatial.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\fr\System.Spatial.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\it\System.Spatial.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ja\System.Spatial.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ko\System.Spatial.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\ru\System.Spatial.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\zh-Hans\System.Spatial.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\zh-Hant\System.Spatial.resources.dll
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\obj\Debug\CourseProject.Migrations.UserTasks4.resources
+D:\BACKUP DISKA C SHWOOPSH\ITR PROJECT\ItrCP\CourseProject\bin\MarkdownSharp.dll
