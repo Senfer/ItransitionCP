@@ -51,10 +51,13 @@ namespace CourseProject.Controllers
 
                 
             }
-            string CurrentUserID = DB.Users.First(c => c.UserName == User.Identity.Name).Id;
-            HttpCookie NewCookie = new HttpCookie("Nickname");
-            NewCookie.Value = DB.Users.First(c => c.Id == CurrentUserID).NickName;
-            HttpContext.Response.Cookies.Add(NewCookie);
+            if (User.Identity.Name != "")
+            {
+                string CurrentUserID = DB.Users.First(c => c.UserName == User.Identity.Name).Id;
+                HttpCookie NewCookie = new HttpCookie("Nickname");
+                NewCookie.Value = DB.Users.First(c => c.Id == CurrentUserID).NickName;
+                HttpContext.Response.Cookies.Add(NewCookie);
+            }
             return View(Model);
             
         }
